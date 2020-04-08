@@ -1,3 +1,4 @@
 #######################################################
+Server = https://hefftorlinux.doohancomputers.com/$repo/$arch
 Server = https://bradheff83.gitlab.io/$repo/$arch
 Server = https://bradheff.github.io/$repo/$arch
