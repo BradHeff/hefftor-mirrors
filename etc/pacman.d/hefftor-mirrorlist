@@ -1,5 +1,5 @@
 #######################################################
-Server = https://mirror.hefftorlinux.net//$repo/$arch
 Server = http://joker.seedhost.eu/pheonix/$repo/$arch
+Server = https://mirror.hefftorlinux.net//$repo/$arch
 Server = https://bradheff.github.io/$repo/$arch
 Server = https://bradheff83.gitlab.io/$repo/$arch
